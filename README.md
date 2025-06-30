@@ -12,7 +12,8 @@ Designed especially for rural healthcare and general awareness, **GuardianGPT** 
 
 | Chatbot UI | Offline Mode | Firestore Reply |
 |------------|--------------|-----------------|
-| ![Chatbot Screen](chatbot_screen.png) | ![Offline Screen](offline_mode.png) | ![Firebase Screen](firebase_reply.png) |
+| ![Chatbot Screen](![Screenshot 2025-06-30 100920](https://github.com/user-attachments/assets/810228b6-1a48-475d-8a64-7d37be185b1d)
+) |
 
 ---
 
